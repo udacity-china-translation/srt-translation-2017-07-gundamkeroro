@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:03,009
 You've already interacted with the HTML in
 
@@ -68,7 +68,7 @@ Here's a simple bit of code to get us started.
 
 18
 00:00:58,524 --> 00:01:03,109
-I'm going to try it because request is not part of the standard library,
+I'm going to try it. Because request is not part of the standard library,
 
 19
 00:01:03,109 --> 00:01:08,784
@@ -100,7 +100,7 @@ I'll call the variable response,
 
 26
 00:01:27,606 --> 00:01:35,730
-it's a bit more descriptive than they are in the example,
+it's a bit more descriptive than the "r" in the example,
 
 27
 00:01:35,730 --> 00:01:37,469
@@ -116,7 +116,7 @@ The example code shows several things I can do to
 
 30
 00:01:47,159 --> 00:01:49,890
-get information after this response object.
+get information out of this response object.
 
 31
 00:01:49,890 --> 00:01:51,060
@@ -144,7 +144,7 @@ I recognized some of the tags we might expect to see,
 
 37
 00:02:11,330 --> 00:02:13,540
-there's an anchor tag,
+there's an a href tag,
 
 38
 00:02:13,539 --> 00:02:16,384
@@ -169,4 +169,3 @@ check what type this response.text actually is.
 43
 00:02:33,930 --> 00:02:40,010
 Okay, it's just the string that contains all the HTML of the Wikipedia page.
-
